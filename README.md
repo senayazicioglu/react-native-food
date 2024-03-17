@@ -1,6 +1,6 @@
 # react-native-food
 ![image](https://github.com/senayazicioglu/react-native-food/assets/79763384/9e61f8cb-fe5c-4870-a2e7-df01abde3120)
-![image](https://github.com/senayazicioglu/react-native-food/assets/79763384/0df8e081-e8bb-4fdc-9f66-75a0356badcd)
+![image](https://github.com/senayazicioglu/react-native-food/assets/79763384/b7362e5a-fe2e-4d9f-b741-540dda89060b)
 ![image](https://github.com/senayazicioglu/react-native-food/assets/79763384/d98f3b91-7f46-44db-8dbc-859dcf16c611)
 ![image](https://github.com/senayazicioglu/react-native-food/assets/79763384/1b4dae05-f252-4980-82d2-3ad8369a1ddf)
 ![image](https://github.com/senayazicioglu/react-native-food/assets/79763384/51a41301-ee9c-4fb3-9d3f-0fd25179d230)
